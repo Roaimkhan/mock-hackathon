@@ -1,0 +1,11 @@
+streamlit
+tavily-python
+typing-extensions
+pydantic
+python-dotenv
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain_google_genai
